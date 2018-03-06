@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="TableDummy" language="en" table="x_198433_appdemo_tabledummy">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>TableDummy</label>
+            <language>en</language>
+            <name>x_198433_appdemo_tabledummy</name>
+            <plural>TableDummys</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-23 11:14:10</sys_created_on>
+            <sys_id>3ecf93884f2013007075b5e18110c769</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>TableDummy</sys_name>
+            <sys_package display_value="AppDemo" source="x_198433_appdemo">a9fe93044f2013007075b5e18110c7d0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AppDemo">a9fe93044f2013007075b5e18110c7d0</sys_scope>
+            <sys_update_name>sys_documentation_x_198433_appdemo_tabledummy__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-23 11:14:10</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

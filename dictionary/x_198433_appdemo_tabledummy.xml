@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="TableDummy" max_length="40" name="x_198433_appdemo_tabledummy" type="collection">
+        <element choice="1" default="IT&#13;&#10;HR&#13;&#10;Finance&#13;&#10;Admin" label="Dept" mandatory="true" max_length="50" name="dept" type="choice">
+            <choice>
+                <element label="IT&#13;&#10;HR&#13;&#10;Finance&#13;&#10;Admin" value="IT&#13;&#10;HR&#13;&#10;Finance&#13;&#10;Admin"/>
+            </choice>
+        </element>
+        <element label="ID" max_length="10" name="id" type="integer"/>
+        <element label="Name" max_length="50" name="name" type="string"/>
+    </element>
+</database>
